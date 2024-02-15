@@ -17,8 +17,6 @@ DOMAIN-SUFFIX,poe.com
 DOMAIN-SUFFIX,invoice.stripe.com
 DOMAIN-SUFFIX,stripe.com
 DOMAIN-SUFFIX,ipfs.io,PROXY
-DOMAIN-SUFFIX,bing.com,BING
-DOMAIN-SUFFIX,bingapis.com,BING
 DOMAIN-SUFFIX,openai.com
 DOMAIN-SUFFIX,claude.ai
 DOMAIN-SUFFIX,sentry.io
